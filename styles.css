@@ -90,6 +90,7 @@ p{    line-height: 1.4;     }
 .attribution { 
     font-size: 14px; 
     text-align: center;
+    margin: -50px auto;
 }
 
 .attribution a { color: hsl(228, 45%, 44%); }
@@ -102,7 +103,7 @@ p{    line-height: 1.4;     }
     .container{
         grid-template-columns: repeat(4 , 1fr);
         max-width: 1200px;
-        margin: 50px auto;
+        margin: 100px auto;
     }
 
     .cards.mviolet{        grid-column: 1/3;    }
