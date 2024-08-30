@@ -23,6 +23,7 @@ body{
     font-family: "Barlow Semi Condensed", sans-serif; 
     display: flex;
     flex-direction: column;
+    overflow: hidden;
 }
 
 h1, h2, h3, h4, h5, h6{    font-weight: 500;    }
@@ -92,7 +93,7 @@ p{    line-height: 1.4;     }
 .attribution { 
     font-size: 14px; 
     text-align: center;
-    margin: 20px;
+    margin: -65px;
 }
 
 .attribution a { color: hsl(228, 45%, 44%); }
