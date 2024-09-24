@@ -1,7 +1,6 @@
 # Frontend Mentor - Testimonials Grid Section Solution
 
 [![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-%20Challenge%20Complete-blue)](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7)
-[![Build Status](https://img.shields.io/gitlab/pipeline/Yashi-Singh-9/testimonials-grid-section/master)](https://gitlab.com/Yashi-Singh-9/testimonials-grid-section/-/pipelines)
 [![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
 [![HTML](https://img.shields.io/badge/HTML-5-orange)](https://html.spec.whatwg.org/)
 [![CSS](https://img.shields.io/badge/CSS-3-blue)](https://www.w3.org/TR/CSS/)
@@ -34,9 +33,9 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop Screenshot](./design/desktop-design.jpg)
+![Desktop Screenshot](design/desktop-design.jpg)
 
-![Mobile Screenshot](./design/mobile-design.jpg)
+![Mobile Screenshot](design/mobile-design.jpg)
 
 ### Links
 
