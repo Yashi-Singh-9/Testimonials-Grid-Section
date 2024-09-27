@@ -39,7 +39,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://www.frontendmentor.io/solutions/testimonials-grid-section-lqxEio8xC7)
+- [Solution URL](https://www.frontendmentor.io/solutions/testimonials-grid-section-qiAW1XyBCV)
 - [Live Site URL](https://testimonials-grid-section-solutions.netlify.app/) 
 
 ## My Process
@@ -75,7 +75,7 @@ The styles that I have used please refer to [Style Guide](style-guide.md)
 
 ## Author
 
-- Frontend Mentor - [@Yashi-Singh-1](https://www.frontendmentor.io/profile/Yashi-Singh-1)
+- Frontend Mentor - [@Yashi-Singh-9](https://www.frontendmentor.io/profile/Yashi-Singh-9)
 - LinkedIn - [Yashi Singh](https://www.linkedin.com/in/yashi-singh-b4143a246)
 
 ## Acknowledgments
